@@ -31,10 +31,8 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAmaralGuerra&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmaralGuerra&layout=compact&theme=default" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAmaralGuerra&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAmaralGuerra&layout=compact&theme=default" alt="Most used languages" height="160"/>
 </p>
 
 ---
